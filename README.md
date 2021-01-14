@@ -4,15 +4,16 @@
 This software is a demonstration for the IP-Control-API possibilities for G&D devices. <br/>
 
 # RemoteGUI (Windows): 
-[![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.2)
+[![Version](https://img.shields.io/badge/Version-4.9.1-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.1)
 <details><summary>More</summary>
 <p>
 
 ### Requirements
 - Windows OS with Microsoft .net Framework 4.6 or higher
-- It's recommended to use the latest G&D firmware in order to use all available functions and features
-- The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
+
 ```
+It's recommended to use the latest G&D firmware in order to use all available functions and features
+The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
@@ -24,23 +25,11 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - MUX-ATC
 - Multipower-NT
 
-**Partially Supported:**
-- DVICenter
-- ControlCenter-IP 1.0
-- DL-MUX
-
-**Not Supported:**
-- CATCenterNEO
-
 ### Blog
 https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/
 
 ### Changelog
 ```
-4.9.2
-- New ICON
-- Overall improvements and bug fixes 
-
 4.9.1
 - Added the possibility to lock the RemoteGUI with a password 
 	-> By default the password entry on startup is disabled and the password is 4658
@@ -186,9 +175,10 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 ### Requirements
 - Android 5.0  or higher
 - iOS 12.1 or higher
-- It's recommended to use the latest G&D firmware in order to use all available functions and features
-- The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
+
 ```
+It's recommended to use the latest G&D firmware in order to use all available functions and features
+The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
@@ -231,6 +221,7 @@ https://github.com/tomvalk/RemoteGUI-Releases/issues
 
 ## Author
 Tom Valk   <br/>
+
 Int. Area Sales Manager  <br/>
 State-certified technical engineer and business economist <br/>
 Certified specialist trainer (BDVT)
