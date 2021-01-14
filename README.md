@@ -10,13 +10,14 @@ This software is a demonstration for the IP-Control-API possibilities for G&D de
 
 ### Requirements
 - Windows OS with Microsoft .net Framework 4.6 or higher
+- It's recommended to use the latest G&D firmware in order to use all available functions and features
+The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
 
 ```
-It's recommended to use the latest G&D firmware in order to use all available functions and features
-The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
+
 **Supported:**
 - ControlCenter-Digital
 - ControlCenter-Compact
@@ -176,9 +177,10 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 - Android 5.0  or higher
 - iOS 12.1 or higher
 
+- It's recommended to use the latest G&D firmware in order to use all available functions and features
+- The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
+
 ```
-It's recommended to use the latest G&D firmware in order to use all available functions and features
-The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
