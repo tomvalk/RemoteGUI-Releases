@@ -31,6 +31,10 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 ### Changelog
 ```
+4.9.2
+- UI fixes
+- Overall improvements and bug fixes 
+
 4.9.1
 - Added the possibility to lock the RemoteGUI with a password 
 	-> By default the password entry on startup is disabled and the password is 4658
