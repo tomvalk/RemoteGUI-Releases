@@ -171,7 +171,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 <details><summary>Screenshots</summary>
 <p>
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshots/RemoteGUI_Main.png "RemoteGUI Main")	<br/>
+![alt text](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshots/RemoteGUI_Main.png "RemoteGUI Main")	<br/>
 ![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshots/RemoteGUI-Script.png "RemoteGUI Script Builder")	<br/>
 </p>
 </details>
