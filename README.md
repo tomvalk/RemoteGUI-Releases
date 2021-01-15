@@ -4,7 +4,7 @@
 This software is a demonstration for the IP-Control-API possibilities for G&D devices. <br/>
 
 # RemoteGUI (Windows): 
-[![Version](https://img.shields.io/badge/Version-4.9.1-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.1)
+[![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.2)
 <details><summary>More</summary>
 <p>
 
