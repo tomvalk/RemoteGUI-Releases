@@ -220,7 +220,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </details>
 
 ## Screenshots
-[![Generic badge](https://img.shields.io/badge/Screenshots-Up-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshots/Screenshots.md)
+[![Generic badge](https://img.shields.io/badge/Screenshots-ClickMe-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshots/Screenshots.md)
 
 ## Contributing
 For changes or issues, please open an issue first to discuss what you would like to change. <br/>
