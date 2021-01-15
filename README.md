@@ -169,12 +169,6 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 </p>
 </details>
 
-<details><summary>Screenshots</summary>
-<p>
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshots/RemoteGUI_Main.png "RemoteGUI Main")	<br/>
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshots/RemoteGUI-Script.png "RemoteGUI Script Builder")	<br/>
-</p>
-</details>
 
 # MobileGUI (iOS & Android): 
 [![Version](https://img.shields.io/badge/Version-0.3.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_0.3.0)
@@ -225,17 +219,8 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </p>
 </details>
 
-</p>
-</details>
-
-<details><summary>Screenshots</summary>
-<p>
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshots/MobileGUI_Main.png "MobileGUI Main")	 <br/>
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshots/MobileGUI_Connections.png "MobileGUI Connections")	<br/>	
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshots/MobileGUI_Commands.png "MobileGUI Main Commands")	<br/>
-
-</p>
-</details>
+## Screenshots
+[![Generic badge](https://img.shields.io/badge/Screenshots-Up-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshots/Screenshots.md)
 
 ## Contributing
 For changes or issues, please open an issue first to discuss what you would like to change. <br/>
