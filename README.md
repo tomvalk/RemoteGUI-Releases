@@ -8,7 +8,7 @@
 ### Requirements
 - Windows OS with Microsoft .net Framework 4.6 or higher
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
-The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
+- The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
 
 ```
 Webinterface -> 'Your Device' -> Information -> Activated Features
