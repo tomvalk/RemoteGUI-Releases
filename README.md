@@ -171,7 +171,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 
 # MobileGUI (iOS & Android): 
-[![Version](https://img.shields.io/badge/Version-0.3.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_0.3.0)
+[![Version](https://img.shields.io/badge/Version-0.4.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_BETA)
 <details><summary>More</summary>
 <p>
 
@@ -203,15 +203,18 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 ### Changelog
 ```
-0.3.0 Public BETA
+0.4.0
+- UI improvements
+
+0.3.0
 - UI improvements
 - Stability improvements
 - Bug fixes
 
-0.2.0 Beta
+0.2.0
 - Added commands like Connect/Disconnect etc.
 
-0.1.0 Alpha
+0.1.0
 - Connect to a G&D device and send/receive data
 
 ```
