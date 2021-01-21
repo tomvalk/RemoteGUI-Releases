@@ -203,22 +203,23 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 ### Changelog
 ```
+0.6.0 (Comming soon)
+    - Added RemoteGUI like switching option
+                                
 0.5.0 
     - Added Dark/Light-Mode support
                             
 0.4.0 
-    - Added Monitoring Frame
+    - Added Matrix Monitoring Frame
                             
 0.3.0 
-    - UI improvements
-    - Stability improvements
-    - Bug fixes
+    - Added advanced command like Login/Logout etc.
 
 0.2.0 
-    - Added commands like Connect/Disconnect etc.
+    - Added Connect/Disconnect commands
 
 0.1.0 
-    - Connect to a G&amp;D device and send/receive data
+    - Connect to a G&D device and send/receive data
 ```
 
 </p>
