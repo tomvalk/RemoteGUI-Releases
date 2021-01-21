@@ -2,6 +2,7 @@
 
 # RemoteGUI (Windows): 
 [![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.2)
+
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/README.md)
 
 <details><summary>More</summary>
@@ -174,6 +175,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 # MobileGUI (iOS & Android & UWP): 
 [![Version](https://img.shields.io/badge/Version-0.5.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_BETA)
+
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/README.md)
 
 <details><summary>More</summary>
@@ -182,8 +184,8 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 ### Requirements
 - Android 5.0  or higher
 - iOS 12.1 or higher
-- Windows 10 - 1903 or higher* <br/>
-*UWP (Universal Windows Platform) not working yet
+- UWP (Universal Windows Platform) Windows 10 - 1903 or higher* <br/>
+
 
 <br/><br/>
 
@@ -208,7 +210,8 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - The IPA file is only signed with a free Developer Account so you need to be creative :)
 - Use http://www.cydiaimpactor.com/ ;)
 - Use xCode to sign it with your own certificat (https://www.ketzler.de/2011/01/resign-an-iphone-app-insert-new-bundle-id-and-send-to-xcode-organizer-for-upload/)
-
+#### UWP
+- UWP (Universal Windows Platform) not working yet
 
 ### Changelog
 ```
