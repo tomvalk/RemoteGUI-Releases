@@ -2,6 +2,8 @@
 
 # RemoteGUI (Windows): 
 [![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI_4.9.2)
+[![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/README.md)
+
 <details><summary>More</summary>
 <p>
 
@@ -172,6 +174,8 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 # MobileGUI (iOS & Android & UWP): 
 [![Version](https://img.shields.io/badge/Version-0.5.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_BETA)
+[![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/README.md)
+
 <details><summary>More</summary>
 <p>
 
@@ -230,8 +234,6 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </p>
 </details>
 
-## Screenshots
-[![Generic badge](https://img.shields.io/badge/Screenshots-ClickMe-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshots/README.md)
 
 ## Contributing
 For changes or issues, please open an issue first to discuss what you would like to change. <br/>
