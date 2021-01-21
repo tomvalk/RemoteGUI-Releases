@@ -170,7 +170,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 </details>
 
 
-# MobileGUI (iOS & Android): 
+# MobileGUI (iOS & Android & UWP): 
 [![Version](https://img.shields.io/badge/Version-0.5.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_BETA)
 <details><summary>More</summary>
 <p>
@@ -178,6 +178,11 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 ### Requirements
 - Android 5.0  or higher
 - iOS 12.1 or higher
+- Windows 10 - 1903 or higher* <br/>
+*UWP (Universal Windows Platform) not working yet
+
+<br/><br/>
+
 
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
