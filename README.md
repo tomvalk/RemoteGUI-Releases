@@ -184,7 +184,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 ### Requirements
 - Android 5.0 or higher
 - iOS 12.1 or higher
-- Windows 10 Build 1903 or higher for UWP
+- Windows 10 x64 Build 1903 or higher
 <br/><br/>
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
