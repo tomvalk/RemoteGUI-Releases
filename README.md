@@ -173,7 +173,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 </details>
 
 
-# MobileGUI (iOS & Android): 
+# MobileGUI (iOS & Android & UWP): 
 [![Version](https://img.shields.io/badge/Version-0.7.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_BETA)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
