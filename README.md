@@ -174,7 +174,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 
 # MobileGUI (iOS & Android & UWP): 
-[![Version](https://img.shields.io/badge/Version-0.7.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_BETA)
+[![Version](https://img.shields.io/badge/Version-0.8.0_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI_BETA)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
@@ -207,12 +207,15 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - Use http://www.cydiaimpactor.com/ ;)
 - Use xCode to sign it with your own certificat (https://www.ketzler.de/2011/01/resign-an-iphone-app-insert-new-bundle-id-and-send-to-xcode-organizer-for-upload/)
 #### UWP (Universal Windows Platform) 
-- Attention: The UWP app is under development and the focus is on iOS and Android. 
+- The UWP app is under development and the focus is on iOS and Android. 
 - Therefore, it is possible that some functions and UI elements do not work correctly or are not displayed.
-- Unzip MobileGUI.UWP_0.7.0.zip and open Install.ps1 with PowerShell and follow the instructions
+- Unzip MobileGUI.UWP*.zip, open Install.ps1 with PowerShell and follow the instructions
 
 ### Changelog
 ```
+0.8.0 
+    - Added working UWP
+    
 0.7.0
     - Added Settings
     
