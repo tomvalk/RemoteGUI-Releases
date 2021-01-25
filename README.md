@@ -182,8 +182,9 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 <p>
 
 ### Requirements
-- Android 5.0  or higher
+- Android 5.0 or higher
 - iOS 12.1 or higher
+- Windows 10 Build 1903 or higher for UWP
 <br/><br/>
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
@@ -205,8 +206,10 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - The IPA file is only signed with a free Developer Account so you need to be creative :)
 - Use http://www.cydiaimpactor.com/ ;)
 - Use xCode to sign it with your own certificat (https://www.ketzler.de/2011/01/resign-an-iphone-app-insert-new-bundle-id-and-send-to-xcode-organizer-for-upload/)
-#### UWP
-- UWP (Universal Windows Platform) not working yet, maybe later :)
+#### UWP (Universal Windows Platform) 
+- Attention: The UWP app is under development and the focus is on iOS and Android. 
+- Therefore, it is possible that some functions and UI elements do not work correctly or are not displayed.
+- Unzip MobileGUI.UWP_0.7.0.zip and open Install.ps1 with PowerShell and follow the instructions
 
 ### Changelog
 ```
