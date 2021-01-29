@@ -174,7 +174,7 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 
 # MobileGUI (iOS & Android & UWP): 
-[![Version](https://img.shields.io/badge/Version-0.9.x_BETA-red.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
@@ -213,32 +213,13 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 ### Changelog
 ```
-0.9.x 
-    - Small improvements and bug fixes before 1.0.0 release
-    
-0.8.0 
-    - Added working UWP
-    
-0.7.0
-    - Added Settings
-    
-0.6.0 
-    - Added RemoteGUI like switching option
-                                
-0.5.0 
-    - Added Dark/Light-Mode support
+1.0.0 - First release        
                             
-0.4.0 
-    - Added Matrix Monitoring Frame
+Supported Platforms: 
+- iOS, Andrid and UWP incl. Dark/Light-Mode
                             
-0.3.0 
-    - Added advanced command like Login/Logout etc.
-
-0.2.0 
-    - Added Connect/Disconnect commands
-
-0.1.0 
-    - Connect to a G&D device and send/receive data
+Supported G&amp;D-Devices: 
+- ControlCenter-Digital, -Compact and -IP  
 ```
 
 </p>
