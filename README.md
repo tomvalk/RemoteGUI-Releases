@@ -5,10 +5,9 @@
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
 
-<details><summary>More</summary>
+<details><summary>Requirements</summary>
 <p>
 
-### Requirements
 - Windows OS with Microsoft .net Framework 4.6 or higher
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
@@ -26,10 +25,13 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - MUX-ATC
 - Multipower-NT
 
-### Blog
-https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/
+</p>
+</details>
 
-### Changelog
+
+<details><summary>Changelog</summary>
+<p>
+	
 ```
 4.9.2
 - UI fixes
@@ -178,10 +180,9 @@ https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhal
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
-<details><summary>More</summary>
+<details><summary>Requirements</summary>
 <p>
 
-### Requirements
 - Android 5.0 or higher
 - iOS 12.1 or higher
 - Windows 10 x64 Build 1903 or higher
@@ -198,20 +199,36 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - ControlCenter-Compact
 - ControlCenter-IP 2.0
 
-### Installation
-#### Android
+</p>
+</details>
+
+<details><summary> -> Android</summary>
+<p>
 - Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
-- You can install APK files on your Android smartphone or tablet directly from your browser / file explorer app.
-#### iOS
-- The IPA file is only signed with a free Developer Account so you need to be creative :)
-- Use http://www.cydiaimpactor.com/ ;)
-- Use xCode to sign it with your own certificat (https://www.ketzler.de/2011/01/resign-an-iphone-app-insert-new-bundle-id-and-send-to-xcode-organizer-for-upload/)
-#### UWP (Universal Windows Platform) 
+- You can install APK files on your Android smartphone or tablet directly from your browser / file explorer app.	
+	
+</p>
+</details>
+
+<details><summary> -> iOS</summary>
+<p>
+- Testflight
+</p>
+</details>
+
+<details><summary> -> UWP</summary>
+<p>
+	
 - The UWP app is under development and the focus is on iOS and Android. 
 - Therefore, it is possible that some functions and UI elements do not work correctly or are not displayed.
 - Unzip MobileGUI.UWP*.zip, open Install.ps1 with PowerShell and follow the instructions
 
-### Changelog
+</p>
+</details>
+
+<details><summary>Changelog</summary>
+<p>
+	
 ```
 1.1.0 
 - Added full Script Builder  
@@ -230,6 +247,9 @@ Supported G&amp;D-Devices:
 </p>
 </details>
 
+
+## Blog
+https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/
 
 ## Contributing
 For changes or issues, please open an issue first to discuss what you would like to change. <br/>
