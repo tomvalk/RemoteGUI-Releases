@@ -184,7 +184,7 @@ Download: [![Version](https://img.shields.io/badge/Version-1.1.0-brightgreen.svg
 <p>
 
 - Android 5.0 or higher
-- iOS 12.1 or higher
+- iOS 8.0 or higher
 - Windows 10 x64 Build 1903 or higher
 <br/><br/>
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
@@ -242,7 +242,7 @@ Supported G&amp;D-Devices:
 	
 - Install Apples [TestFlight](https://apps.apple.com/de/app/testflight/id899247664) from the App Store
 
-- Open the **TestFlight** App and **Redeem** your MobileGUI code (xxxxxxxx)
+- Open the **TestFlight** App and **Redeem** your MobileGUI code (waiting for release)
 	
 </p>
 </details>
