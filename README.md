@@ -202,30 +202,6 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </p>
 </details>
 
-<details><summary> -> Android</summary>
-<p>
-- Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
-- You can install APK files on your Android smartphone or tablet directly from your browser / file explorer app.	
-	
-</p>
-</details>
-
-<details><summary> -> iOS</summary>
-<p>
-- Testflight
-</p>
-</details>
-
-<details><summary> -> UWP</summary>
-<p>
-	
-- The UWP app is under development and the focus is on iOS and Android. 
-- Therefore, it is possible that some functions and UI elements do not work correctly or are not displayed.
-- Unzip MobileGUI.UWP*.zip, open Install.ps1 with PowerShell and follow the instructions
-
-</p>
-</details>
-
 <details><summary>Changelog</summary>
 <p>
 	
@@ -246,6 +222,41 @@ Supported G&amp;D-Devices:
 
 </p>
 </details>
+
+## Installation
+<details><summary>Android</summary>
+<p>
+	
+
+- Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
+
+- You can install APK files on your Android smartphone or tablet directly from your browser / file explorer app.
+
+
+</p>
+</details>
+
+<details><summary>iOS</summary>
+<p>
+	
+- Testflight
+	
+</p>
+</details>
+
+<details><summary>UWP</summary>
+<p>
+	
+- The UWP app is under development and the focus is on iOS and Android. 
+
+- Therefore, it is possible that some functions and UI elements do not work correctly or are not displayed.
+
+- Unzip MobileGUI.UWP*.zip, open Install.ps1 with PowerShell and follow the instructions
+
+</p>
+</details>
+
+
 
 
 ## Blog
