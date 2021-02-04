@@ -227,10 +227,11 @@ Supported G&amp;D-Devices:
 <details><summary>Android</summary>
 <p>
 	
+- On your Android phone: Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store
 
-- Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
+- Download the latest **APK** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
-- You can install APK files on your Android smartphone or tablet directly from your browser / file explorer app.
+- You can install the **APK** files on your Android smartphone or tablet directly from your browser or file explorer app.
 
 
 </p>
@@ -239,7 +240,9 @@ Supported G&amp;D-Devices:
 <details><summary>iOS</summary>
 <p>
 	
-- Testflight
+- Install Apples [TestFlight](https://apps.apple.com/de/app/testflight/id899247664) from the App Store
+
+- Open the **TestFlight** App and **Redeem** your MobileGUI code (xxxxxxxx)
 	
 </p>
 </details>
@@ -247,11 +250,11 @@ Supported G&amp;D-Devices:
 <details><summary>UWP</summary>
 <p>
 	
-- The UWP app is under development and the focus is on iOS and Android. 
+- The UWP app is under development and the focus is on iOS and Android, therefore, it is possible that some functions and UI elements do not work correctly or are not displayed
 
-- Therefore, it is possible that some functions and UI elements do not work correctly or are not displayed.
+- Download the latest **MobileGUI.UWP*.zip** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
-- Unzip MobileGUI.UWP*.zip, open Install.ps1 with PowerShell and follow the instructions
+- Unzip **MobileGUI.UWP*.zip** and open **Install.ps1** with **PowerShell* and follow the instructions
 
 </p>
 </details>
