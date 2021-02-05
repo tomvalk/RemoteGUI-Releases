@@ -255,7 +255,7 @@ Supported G&amp;D-Devices:
 
 - Download the latest **MobileGUI.UWP.zip** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
-- Unzip **MobileGUI.UWP.zip** and open **Install.ps1** with **PowerShell* and follow the instructions
+- Unzip **MobileGUI.UWP.zip** and open **Install.ps1** with **PowerShell** and follow the instructions
 
 </p>
 </details>
