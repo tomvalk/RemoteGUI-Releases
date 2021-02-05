@@ -252,9 +252,9 @@ Supported G&amp;D-Devices:
 	
 - The UWP app is under development and the focus is on iOS and Android, therefore, it is possible that some functions and UI elements do not work correctly or are not displayed
 
-- Download the latest **MobileGUI.UWP*.zip** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+- Download the latest **MobileGUI.UWP.zip** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
-- Unzip **MobileGUI.UWP*.zip** and open **Install.ps1** with **PowerShell* and follow the instructions
+- Unzip **MobileGUI.UWP.zip** and open **Install.ps1** with **PowerShell* and follow the instructions
 
 </p>
 </details>
