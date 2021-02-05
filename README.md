@@ -242,7 +242,7 @@ Supported G&amp;D-Devices:
 	
 - Install Apples [TestFlight](https://apps.apple.com/de/app/testflight/id899247664) from the App Store
 
-- Open the **TestFlight** App and **Redeem** your MobileGUI code (waiting for release)
+- Followed by the click on this link to install [MobileGUI.iOS](https://testflight.apple.com/join/3QwH5VWa)
 	
 </p>
 </details>
