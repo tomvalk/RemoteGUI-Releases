@@ -211,13 +211,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 - Added Workplace Filter to GUI    
 
 1.0.0 
-- First release        
-                            
-Supported Platforms: 
-- iOS, Andrid and UWP incl. Dark/Light-Mode
-                            
-Supported G&amp;D-Devices: 
-- ControlCenter-Digital, -Compact and -IP  
+- First release                                   
 ```
 
 </p>
