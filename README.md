@@ -240,10 +240,10 @@ Supported G&amp;D-Devices:
 <details><summary>iOS</summary>
 <p>
 	
+- MobileGUI for **iOS** will be published via Testflight - [MobileGUI.iOS](https://testflight.apple.com/join/3QwH5VWa)
 - Install Apples [TestFlight](https://apps.apple.com/de/app/testflight/id899247664) from the App Store
 
-- Followed by the click on this link to install [MobileGUI.iOS](https://testflight.apple.com/join/3QwH5VWa)
-	
+
 </p>
 </details>
 
