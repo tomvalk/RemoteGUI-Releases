@@ -245,7 +245,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <details><summary>UWP</summary>
 <p>
 	
-- The UWP app is under development and the focus is on iOS and Android, therefore, it is possible that some functions and UI elements do not work correctly or are not displayed
+- The Universal Windows Platform (UWP) app is under development and the focus is on iOS and Android, therefore, it is possible that some functions and UI elements do not work correctly
 
 - Download the latest **MobileGUI.UWP.zip** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
