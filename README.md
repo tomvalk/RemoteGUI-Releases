@@ -185,7 +185,7 @@ Download: [![Version](https://img.shields.io/badge/Version-1.2.0-brightgreen.svg
 
 - Android 5.0 or higher
 - iOS 8.0 or higher
-- Windows 10 x64 Build 1903 or higher
+- Windows 10 Build 1903 or higher
 <br/><br/>
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
