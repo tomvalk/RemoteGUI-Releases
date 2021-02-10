@@ -184,7 +184,7 @@ How to set up the Workplace in the Matrix:
 
 
 # MobileGUI (iOS & Android & UWP): 
-Download: [![Version](https://img.shields.io/badge/Version-1.3.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+Download: [![Version](https://img.shields.io/badge/Version-1.3.1-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
@@ -214,7 +214,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-1.3.0
+1.3.1
 - Added show/hide Targets to the Workplace filter
 - "More..." commands now available via long press  
     
