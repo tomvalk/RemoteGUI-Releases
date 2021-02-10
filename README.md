@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Logo.png)<br/>
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
 # RemoteGUI (Windows): 
