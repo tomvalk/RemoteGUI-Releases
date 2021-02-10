@@ -1,7 +1,7 @@
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
 # RemoteGUI (Windows): 
-Download: [![Version](https://img.shields.io/badge/Version-4.9.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
+Download: [![Version](https://img.shields.io/badge/Version-4.9.3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
 
@@ -33,6 +33,14 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
+Changelog:
+4.9.3
+- Added the option to show/hide Targets within the selected Workplace filter to the settings
+
+How to set up the Workplace in the Matrix:
+- Go to Matrix -> Advanced Featrues -> TS-Function -> Add a Workplace -> Add the Consoles/Targets to this workplace -> No need for a Master -> Save -> Finish
+- When you now select this Wokplace, only the Consoles and Targets from this workplace will be visible
+
 4.9.2
 - UI fixes
 - Overall improvements and bug fixes 
@@ -176,7 +184,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 
 # MobileGUI (iOS & Android & UWP): 
-Download: [![Version](https://img.shields.io/badge/Version-1.2.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+Download: [![Version](https://img.shields.io/badge/Version-1.3.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
@@ -206,8 +214,12 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
+1.3.0
+- Added show/hide Targets to the Workplace filter
+- "More..." commands now available via long press  
+    
 1.2.0
-- Added more commands to GUI
+- Added "More..." commands to GUI
 - Bug fixes and UI improvements 
     
 1.1.0 
