@@ -215,7 +215,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-1.4.0 
+1.4.2 
     - Added Scripting Feature to Script Builder          
     
 1.3.4
