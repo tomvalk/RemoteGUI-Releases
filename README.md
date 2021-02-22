@@ -185,14 +185,14 @@ How to set up the Workplace in the Matrix:
 
 
 # MobileGUI (iOS & Android & UWP): 
-Download: [![Version](https://img.shields.io/badge/Version-1.4.6-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+Download: [![Version](https://img.shields.io/badge/Version-1.4.8-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
 <details><summary>Requirements</summary>
 <p>
 
-- Android 5.0 or higher
+- Android 4.1 or higher
 - iOS 8.0 or higher
 - Windows 10 Build 1903 or higher
 <br/><br/>
@@ -215,7 +215,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-1.4.6 
+1.4.8 
     - Added Scripting Feature to Script Builder          
     
 1.3.0
