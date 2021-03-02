@@ -39,12 +39,12 @@ Changelog:
 - Added the option to show/hide Targets within the selected Workplace filter to the settings*
 - Added the possibility to lock the RemoteGUI with a password 
 	-> By default the password entry on startup is disabled and the password is 4658
-- Added the setting to show only devices that are in the workplace (filter)
 - Overall UI improvements and bug fixes 
 
 *How to set up the Workplace in the Matrix:
-- Go to Matrix -> Advanced Featrues -> TS-Function -> Add a Workplace -> Add the Consoles/Targets to this workplace -> No need for a Master -> Save -> Finish
-- When you now select this Wokplace, only the Consoles and Targets from this workplace will be visible
+Go to Matrix -> Advanced Featrues -> TS-Function -> Add a Workplace 
+-> Add the Consoles/Targets to this workplace -> No need for a Master -> Save -> Finish
+When you now select this Wokplace, only the Consoles and Targets from this workplace will be visible
 
 4.9.0
 - Moved RemoteMUX to the main window as a separate tab
