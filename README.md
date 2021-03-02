@@ -36,21 +36,15 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 ```
 Changelog:
 4.9.3
-- Added the option to show/hide Targets within the selected Workplace filter to the settings
-
-How to set up the Workplace in the Matrix:
-- Go to Matrix -> Advanced Featrues -> TS-Function -> Add a Workplace -> Add the Consoles/Targets to this workplace -> No need for a Master -> Save -> Finish
-- When you now select this Wokplace, only the Consoles and Targets from this workplace will be visible
-
-4.9.2
-- UI fixes
-- Overall improvements and bug fixes 
-
-4.9.1
+- Added the option to show/hide Targets within the selected Workplace filter to the settings*
 - Added the possibility to lock the RemoteGUI with a password 
 	-> By default the password entry on startup is disabled and the password is 4658
 - Added the setting to show only devices that are in the workplace (filter)
-- Overall improvements and bug fixes 
+- Overall UI improvements and bug fixes 
+
+*How to set up the Workplace in the Matrix:
+- Go to Matrix -> Advanced Featrues -> TS-Function -> Add a Workplace -> Add the Consoles/Targets to this workplace -> No need for a Master -> Save -> Finish
+- When you now select this Wokplace, only the Consoles and Targets from this workplace will be visible
 
 4.9.0
 - Moved RemoteMUX to the main window as a separate tab
@@ -185,7 +179,7 @@ How to set up the Workplace in the Matrix:
 
 
 # MobileGUI (iOS & Android & UWP): 
-Download: [![Version](https://img.shields.io/badge/Version-1.4.8-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+Download: [![Version](https://img.shields.io/badge/Version-1.5.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
@@ -215,25 +209,29 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-1.4.8 
-    - Added Scripting Feature to Script Builder          
-    
+1.5.0 
+    - Added U2(LAN) devices to the GUI   
+    - Added visual customization of saved Scripts (via long press)                       
+                            
+1.4.0 
+    - Added Easy Scripting feature to [Script Builder]    
+    - Overall improvements and UI fixes
+                           
 1.3.0
-- "More..." commands now available via long press 
-- Added show/hide Targets to the Workplace filter 
-- Added haptic feedback 
-- Overall improvements and UI fixes
-    
-1.2.0
-- Added "More..." commands to GUI
-- Bug fixes and UI improvements 
-    
+    - "More..." commands now available via long press 
+    - Added show/hide Targets to the Workplace filter* 
+    - Added haptic feedback 
+                            
+1.2.0                            
+    - Added "More..." commands to Targets and Consoles
+    - Overall improvements and UI fixes
+                
 1.1.0 
-- Added full Script Builder  
-- Added Workplace Filter to GUI    
-
+    - Added full Script Builder  
+    - Added Workplace Filter to GUI                        
+                            
 1.0.0 
-- First release                                   
+    - First Release                                
 ```
 
 </p>
