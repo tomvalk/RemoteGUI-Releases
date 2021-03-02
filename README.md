@@ -301,13 +301,14 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 
 
-
+# About
 ## Blog
-https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/
+[G&D RemoteGUI – einfaches Umschalten innerhalb eines KVM-Systems via XML](https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/) <br/>
+[G&D RemoteGUI – easy switching of KVM systems via XML](https://blog.gdsys.de/en/2020/08/05/gd-remotegui-easy-switching-of-kvm-systems-via-xml/) <br/>
 
 ## Contributing
-For changes or issues, please open an issue first to discuss what you would like to change. <br/>
-https://github.com/tomvalk/RemoteGUI-Releases/issues
+For changes or issues, please open an [request](https://github.com/tomvalk/RemoteGUI-Releases/issues) first to discuss what you would like to change. <br/>
+
 
 ## Author
 Tom Valk   <br/>
@@ -315,3 +316,5 @@ Tom Valk   <br/>
 Int. Area Sales Manager  <br/>
 State-certified technical engineer and business economist <br/>
 Certified specialist trainer (BDVT)
+
+<a href="mailto:valk@gdsys.de?"><img src="https://img.shields.io/badge/Send Mail-%23DD0031.svg?&style=for-the-badge&logo=mail&logoColor=white"/></a>
