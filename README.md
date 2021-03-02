@@ -2,9 +2,11 @@
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
 # RemoteGUI (Windows): 
-Download: [![Version](https://img.shields.io/badge/Version-4.9.3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
+Download:  <br/>
+[![Version](https://img.shields.io/badge/Version-4.9.3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
 
-[![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
+Screenshot:  <br/>
+[![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
 
 <details><summary>Requirements</summary>
 <p>
@@ -17,14 +19,20 @@ Download: [![Version](https://img.shields.io/badge/Version-4.9.3-brightgreen.svg
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
+</p>
+</details>
 
-**Supported:**
+<details><summary>Supported Devices</summary>
+<p>
+
+```
 - ControlCenter-Digital
 - ControlCenter-Compact
 - ControlCenter-IP 2.0
 - MUX-NT
 - MUX-ATC
 - Multipower-NT
+```
 
 </p>
 </details>
@@ -177,11 +185,21 @@ When you now select this Wokplace, only the Consoles and Targets from this workp
 </p>
 </details>
 
+## Installation
+<details><summary>Windows</summary>
+<p>
+	
+- Download the **EXE** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI), no need for an installation
+
+</p>
+</details>
 
 # MobileGUI (iOS & Android & UWP): 
-Download: [![Version](https://img.shields.io/badge/Version-1.5.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+Download:  <br/>
+[![Version](https://img.shields.io/badge/Version-1.5.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
-[![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-Green.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
+Screenshot:  <br/>
+[![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
 <details><summary>Requirements</summary>
 <p>
@@ -197,11 +215,18 @@ Download: [![Version](https://img.shields.io/badge/Version-1.5.0-brightgreen.svg
 Webinterface -> 'Your Device' -> Information -> Activated Features
 Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> TCP:xxxxx -> Enabled
 ```
-**Supported:**
+</p>
+</details>
+
+<details><summary>Supported Devices</summary>
+<p>
+	
+```
 - ControlCenter-Digital
 - ControlCenter-Compact
 - ControlCenter-IP 2.0
-
+```
+	
 </p>
 </details>
 
