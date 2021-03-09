@@ -3,7 +3,7 @@
 
 # RemoteGUI (Windows): 
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-4.9.3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
+[![Version](https://img.shields.io/badge/Version-4.10.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
@@ -43,20 +43,17 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 	
 ```
 Changelog:
-4.9.3
+4.10.0
+- Added the setting to show the Push-Event-Notification in the Windows Notifcation Center
 - Added the option to show/hide Targets within the selected Workplace filter to the settings*
-- Added the possibility to lock the RemoteGUI with a password 
-	-> By default the password entry on startup is disabled and the password is 4658
-- Overall UI improvements and bug fixes 
-
-*How to set up the Workplace in the Matrix:
-Go to Matrix -> Advanced Featrues -> TS-Function -> Add a Workplace 
--> Add the Consoles/Targets to this workplace -> No need for a Master -> Save -> Finish
-When you now select this Wokplace, only the Consoles and Targets from this workplace will be visible
+- Overall improvements and bug fixes 
 
 4.9.0
+- Added the possibility to lock the RemoteGUI with a password 
+	-> By default the password entry on startup is disabled and the password is 4658
+- Added the setting to show only devices that are in the selected Workplace filter to the settings
 - Moved RemoteMUX to the main window as a separate tab
-- Moved Global Matrix Commands to the main window as a separate tab (RemoteMTX)
+- Moved Global Matrix Commands to the main window as a separate tab
 - Added new RemoteMP tab for controlling MultiPower-NT 
 	-> Requires firmware MultiPower-NT >= 1.1.000
 - Overall improvements and bug fixes 
