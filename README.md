@@ -45,7 +45,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 Changelog:
 4.10.0
 - Added the setting to show the Push-Event-Notification in the Windows Notifcation Center
-- Added the option to show/hide Targets within the selected Workplace filter to the settings*
+- Added the option to show/hide Targets within the selected Workplace filter to the settings
 - Overall improvements and bug fixes 
 
 4.9.0
