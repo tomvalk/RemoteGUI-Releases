@@ -1,4 +1,5 @@
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Logo.png)<br/>
+<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Logo.png" width="200" height="400">
+
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
 # RemoteGUI (Windows): 
@@ -7,6 +8,21 @@ Download:  <br/>
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
+## Features
+- Full integration of the IP-Control-API command set - connect, disconnect, login, logout etc.
+- Shows the current connection status for all devices
+- Automatic detection of all devices connected to a matrix incl. RemoteAccess and U2 devices
+- Detection of newly connected devices during runtime
+- Adjustment of states between online, ready and offline by PushEventNotfications during runtime
+- PushEventNotfications can be shown as WIndows Messages for monitoring all conenctions
+- Special commands like send messages to all devices or switch all devices at the same time can be executed directly
+- Complete list with all connected devices incl. data like name, UID, port, features and much more
+- Complete script builder with almost 200 API commands - Allows to create, test and export complete scripts with one click without XML knowledge
+- Control and switching of additional KVM switches and MultiPower possible
+- Locking access with a password is possible
+- And much more!
+
+## Information
 
 <details><summary>Requirements</summary>
 <p>
@@ -197,6 +213,16 @@ Download:  <br/>
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
+
+## Features
+- Full integration of the IP-Control-API command set - connect, disconnect, login, logout etc.
+- Automatic detection of all devices connected to a matrix incl. RemoteAccess and U2 devices
+- Script builder with lot of API commands - Allows to create, test and save scripts with one click without XML knowledge
+- Full customization (color, size, icon etc.) of saved scripts
+- PushEventNotfications can be shown as PushNotification for monitoring all conenction without opening the App (coming soon)
+- And much more!
+
+## Information
 
 <details><summary>Requirements</summary>
 <p>
