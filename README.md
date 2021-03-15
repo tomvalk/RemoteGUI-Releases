@@ -207,7 +207,7 @@ Changelog:
 </p>
 </details>
 
-# MobileGUI (iOS & Android & UWP): 
+# MobileGUI (iOS & Android): 
 Download:  <br/>
 [![Version](https://img.shields.io/badge/Version-1.5.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
@@ -229,7 +229,6 @@ Screenshot:  <br/>
 
 - Android 4.1 or higher
 - iOS 8.0 or higher
-- Windows 10 Build 1903 or higher
 <br/><br/>
 - It's recommended to use the latest G&D firmware in order to use all available functions and features
 - The G&D firmware expansion IP-Control-API togehther with an activated Remote-Control-Port: 
@@ -309,19 +308,6 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 </p>
 </details>
-
-<details><summary>UWP</summary>
-<p>
-	
-- The Universal Windows Platform (UWP) app is under development and the focus is on iOS and Android, therefore, it is possible that some functions and UI elements do not work correctly
-
-- Download the latest **MobileGUI.UWP.zip** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
-
-- Unzip **MobileGUI.UWP.zip** and open **Install.ps1** with **PowerShell** and follow the instructions
-
-</p>
-</details>
-
 
 
 # About
