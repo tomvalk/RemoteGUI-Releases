@@ -219,7 +219,7 @@ Screenshot:  <br/>
 - Automatic detection of all devices connected to a matrix incl. RemoteAccess and U2 devices
 - Script builder with lot of API commands - Allows to create, test and save scripts with one click without XML knowledge
 - Full customization (color, size, icon etc.) of saved scripts
-- PushEventNotfications can be shown as PushNotification for monitoring all conenction without opening the App (coming soon)
+- PushEventNotfications can be shown as PushNotification for monitoring all conenction without opening the App 
 - And much more!
 
 ## Information
