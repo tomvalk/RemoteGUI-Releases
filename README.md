@@ -4,7 +4,7 @@
 
 # RemoteGUI (Windows): 
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-4.10.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
+[![Version](https://img.shields.io/badge/Version-5.0.0_Preview-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
@@ -59,7 +59,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 	
 ```
 Changelog:
-4.10.0
+5.0.0
 - Added the setting to show the Push-Event-Notification in the Windows Notifcation Center
 - Added the option to show/hide Targets within the selected Workplace filter to the settings
 - Overall improvements and bug fixes 
@@ -209,7 +209,7 @@ Changelog:
 
 # MobileGUI (iOS & Android): 
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-1.5.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+[![Version](https://img.shields.io/badge/Version-1.6.0-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
@@ -256,6 +256,9 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
+1.6.0
+    - Added PushNotification for G&D Push Events
+
 1.5.0 
     - Added U2(LAN) devices to the GUI   
     - Added visual customization of saved Scripts (via long press)                       
