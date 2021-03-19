@@ -209,7 +209,7 @@ Changelog:
 
 # MobileGUI (iOS & Android): 
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-1.6.1-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+[![Version](https://img.shields.io/badge/Version-1.6.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
@@ -256,10 +256,8 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-1.6.1
+1.6.2
     - Added visual improvements to the GUI
-
-1.6.0
     - Added PushNotification for G&D Push Events
 
 1.5.0 
