@@ -1,10 +1,10 @@
 
  <div class="row">
   <div class="column">
-    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="40%" width="40%">
+    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
   </div>
   <div class="column">
-    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="40%" width="40%">
+    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="25%" width="25%">
   </div>
 </div> 
 
