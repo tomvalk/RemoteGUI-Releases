@@ -4,7 +4,7 @@
 
 # RemoteGUI (Windows): 
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-5.0.0_Preview-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
+[![Version](https://img.shields.io/badge/Version-5.0.0_Preview_2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
@@ -209,7 +209,7 @@ Changelog:
 
 # MobileGUI (iOS & Android): 
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-1.6.2-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
+[![Version](https://img.shields.io/badge/Version-1.6.3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
@@ -256,7 +256,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-1.6.2
+1.6.3
     - Added visual improvements to the GUI
     - Added PushNotification for G&D Push Events
 
