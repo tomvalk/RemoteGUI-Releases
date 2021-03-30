@@ -1,6 +1,12 @@
 
-<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" width="50%" height="50%" > 
-<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" width="50%" height="50%" >
+ <div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="40%" width="40%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="40%" width="40%">
+  </div>
+</div> 
 
 
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
