@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Logo.png" width="200" height="400">
+
+<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" width="50%" height="50%" > 
+<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" width="50%" height="50%" >
+
 
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
