@@ -3,15 +3,15 @@
 
 
 <a href="https://testflight.apple.com/join/3QwH5VWa" target="_blank">
-  <img src="https://vehiclemind.zendesk.com/hc/article_attachments/360066515451/appletestflight-badge.png" height="80"/>
+  <img src="https://vehiclemind.zendesk.com/hc/article_attachments/360066515451/appletestflight-badge.png" width="200" height="80"/>
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.mobilegui.android" target="_blank">
-  <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="80"/>
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" width="200" height="80"/>
 </a>
 
 <a href="https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI" target="_blank">
-  <img src="https://www.yt3dl.net/images/apk-download-badge.png" height="80"/>
+  <img src="https://www.yt3dl.net/images/apk-download-badge.png" width="200" height="80"/>
 </a>
 
 
@@ -28,9 +28,6 @@
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
-
-
-## Information
 
 <details><summary>Features</summary>
 <p>
@@ -235,8 +232,6 @@ Changelog:
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
-
-## Information
 
 <details><summary>Features</summary>
 <p>
