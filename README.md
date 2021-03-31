@@ -1,11 +1,30 @@
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
-# RemoteGUI (Windows): 
+<a href="https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI" target="_blank">
+  <img src="https://images.squarespace-cdn.com/content/v1/57eacb7e197aea92a6bb9682/1556121147198-U3JZP5DJZ7TQG9XFW4WV/ke17ZwdGBToddI8pDm48kCer5a32Hjd0zIRltAZ56MRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwltLZdKwhAec3545lrL2t9njB-xvxgVWJEReCmYKzSeBiwy-EsC0c1Ort17sWLgzo/bezlio-app-badges-windows-version.png?format=1500w" height="80"/>
+</a>
 
+<a href="https://apps.apple.com/de/app/testflight/id899247664" target="_blank">
+  <img src="https://vehiclemind.zendesk.com/hc/article_attachments/360066515451/appletestflight-badge.png" height="80"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.mobilegui.android" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="80"/>
+</a>
+
+<a href="https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI" target="_blank">
+  <img src="https://www.yt3dl.net/images/apk-download-badge.png" height="80"/>
+</a>
+
+
+
+
+
+
+
+
+# RemoteGUI (Windows):
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="25%" width="25%">
-
-Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-5.0.0_Preview_3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
@@ -15,6 +34,8 @@ Screenshot:  <br/>
 
 <details><summary>Features</summary>
 <p>
+	
+
 - Full integration of the IP-Control-API command set - connect, disconnect, login, logout etc.
 - Shows the current connection status for all devices
 - Automatic detection of all devices connected to a matrix incl. RemoteAccess and U2 devices
@@ -27,6 +48,8 @@ Screenshot:  <br/>
 - Control and switching of additional KVM switches and MultiPower possible
 - Locking access with a password is possible
 - And much more!
+
+
 </p>
 </details>
 
@@ -204,20 +227,11 @@ Changelog:
 </p>
 </details>
 
-<details><summary>Installation</summary>
-<p>
-	
-- Download the **EXE** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI), no need for an installation
 
-</p>
-</details>
 
 # MobileGUI (iOS & Android): 
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
-
-Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-1.6.4-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
@@ -295,30 +309,6 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 1.0.0 
     - First Release                                
 ```
-
-</p>
-</details>
-
-<details><summary>Android Installation</summary>
-<p>
-	
-- On your Android phone: Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store
-
-- Download the latest **APK** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
-
-- You can install the **APK** files on your Android smartphone or tablet directly from your browser or file explorer app.
-
-
-</p>
-</details>
-
-<details><summary>iOS Installation</summary>
-<p>
-	
-- MobileGUI for **iOS** will be published via Testflight - [MobileGUI.iOS](https://testflight.apple.com/join/3QwH5VWa)
-
-- Install Apples [TestFlight](https://apps.apple.com/de/app/testflight/id899247664) from the App Store
-
 
 </p>
 </details>
