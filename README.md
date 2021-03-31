@@ -1,23 +1,21 @@
-
- <div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="25%" width="25%">
-  </div>
-</div> 
-
-
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
 # RemoteGUI (Windows): 
+
+<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="25%" width="25%">
+
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-5.0.0_Preview_3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/)
+[![Version](https://img.shields.io/badge/Version-5.0.0_Preview_3-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
 ## Features
+
+
+## Information
+
+<details><summary>Features</summary>
+<p>
 - Full integration of the IP-Control-API command set - connect, disconnect, login, logout etc.
 - Shows the current connection status for all devices
 - Automatic detection of all devices connected to a matrix incl. RemoteAccess and U2 devices
@@ -30,8 +28,8 @@ Screenshot:  <br/>
 - Control and switching of additional KVM switches and MultiPower possible
 - Locking access with a password is possible
 - And much more!
-
-## Information
+</p>
+</details>
 
 <details><summary>Requirements</summary>
 <p>
@@ -207,8 +205,7 @@ Changelog:
 </p>
 </details>
 
-## Installation
-<details><summary>Windows</summary>
+<details><summary>Installation</summary>
 <p>
 	
 - Download the **EXE** file from [Releases](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI), no need for an installation
@@ -217,21 +214,25 @@ Changelog:
 </details>
 
 # MobileGUI (iOS & Android): 
+
+<img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
+
 Download:  <br/>
-[![Version](https://img.shields.io/badge/Version-1.6.4-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/)
+[![Version](https://img.shields.io/badge/Version-1.6.4-brightgreen.svg)](https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/MobileGUI)
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
-## Features
+<details><summary>Features</summary>
+<p>
 - Full integration of the IP-Control-API command set - connect, disconnect, login, logout etc.
 - Automatic detection of all devices connected to a matrix incl. RemoteAccess and U2 devices
 - Script builder with lot of API commands - Allows to create, test and save scripts with one click without XML knowledge
 - Full customization (color, size, icon etc.) of saved scripts
 - PushEventNotfications can be shown as PushNotification for monitoring all conenction without opening the App 
 - And much more!
-
-## Information
+</p>
+</details>
 
 <details><summary>Requirements</summary>
 <p>
