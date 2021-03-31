@@ -1,8 +1,6 @@
 # This software is a demonstration of the IP-Control-API capabilities available within G&D devices <br/>
 
-<a href="https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI" target="_blank">
-  <img src="https://images.squarespace-cdn.com/content/v1/57eacb7e197aea92a6bb9682/1556121147198-U3JZP5DJZ7TQG9XFW4WV/ke17ZwdGBToddI8pDm48kCer5a32Hjd0zIRltAZ56MRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwltLZdKwhAec3545lrL2t9njB-xvxgVWJEReCmYKzSeBiwy-EsC0c1Ort17sWLgzo/bezlio-app-badges-windows-version.png?format=1500w" height="80"/>
-</a>
+
 
 <a href="https://testflight.apple.com/join/3QwH5VWa" target="_blank">
   <img src="https://vehiclemind.zendesk.com/hc/article_attachments/360066515451/appletestflight-badge.png" height="80"/>
@@ -17,7 +15,9 @@
 </a>
 
 
-
+<a href="https://github.com/tomvalk/RemoteGUI-Releases/releases/tag/RemoteGUI" target="_blank">
+  <img src="https://images.squarespace-cdn.com/content/v1/57eacb7e197aea92a6bb9682/1556121147198-U3JZP5DJZ7TQG9XFW4WV/ke17ZwdGBToddI8pDm48kCer5a32Hjd0zIRltAZ56MRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwltLZdKwhAec3545lrL2t9njB-xvxgVWJEReCmYKzSeBiwy-EsC0c1Ort17sWLgzo/bezlio-app-badges-windows-version.png?format=1500w" height="80"/>
+</a>
 
 
 
