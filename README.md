@@ -9,7 +9,6 @@ Download:  <br/>
 
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
-## Features
 
 
 ## Information
@@ -223,6 +222,8 @@ Download:  <br/>
 Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
+## Information
+
 <details><summary>Features</summary>
 <p>
 - Full integration of the IP-Control-API command set - connect, disconnect, login, logout etc.
@@ -298,8 +299,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </p>
 </details>
 
-## Installation
-<details><summary>Android</summary>
+<details><summary>Android Installation</summary>
 <p>
 	
 - On your Android phone: Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store
@@ -312,7 +312,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </p>
 </details>
 
-<details><summary>iOS</summary>
+<details><summary>iOS Installation</summary>
 <p>
 	
 - MobileGUI for **iOS** will be published via Testflight - [MobileGUI.iOS](https://testflight.apple.com/join/3QwH5VWa)
