@@ -26,7 +26,6 @@
 # RemoteGUI (Windows):
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="25%" width="25%">
 
-Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
 
 <details><summary>Features</summary>
@@ -230,7 +229,6 @@ Changelog:
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
-Screenshot:  <br/>
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
 
 <details><summary>Features</summary>
