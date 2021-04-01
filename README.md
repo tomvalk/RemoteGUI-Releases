@@ -233,6 +233,7 @@ Changelog:
 
 <details><summary>Features</summary>
 <p>
+	
 - Full integration of the IP-Control-API command set - connect, disconnect, login, logout etc.
 - Automatic detection of all devices connected to a matrix incl. RemoteAccess and U2 devices
 - Script builder with lot of API commands - Allows to create, test and save scripts with one click without XML knowledge
@@ -240,6 +241,7 @@ Changelog:
 - PushEventNotfications can be shown as PushNotification for monitoring all conenction without opening the App 
 - And much more!
 </p>
+
 </details>
 
 <details><summary>Requirements</summary>
