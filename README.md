@@ -23,7 +23,7 @@
 
 
 
-# RemoteGUI (Windows):
+# RemoteGUI (Windows) v5.0.0
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="25%" width="25%">
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
@@ -225,7 +225,7 @@ Changelog:
 
 
 
-# MobileGUI (iOS & Android): 
+# MobileGUI (iOS & Android) v1.6.5 
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
@@ -277,8 +277,9 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 	
 ```
 1.6.x
-    - Added visual improvements to the GUI
-    - Added PushNotification for G&D Push Events
+    - Popups and GUI were visually reworked
+    - Added PushNotification for G&amp;D Event-Notifications
+    - Overall speed improvements and UI fixes
 
 1.5.0 
     - Added U2(LAN) devices to the GUI   
