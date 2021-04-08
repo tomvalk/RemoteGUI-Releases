@@ -225,7 +225,7 @@ Changelog:
 
 
 
-# MobileGUI (iOS & Android) v1.6.6 
+# MobileGUI (iOS & Android) v1.6.7 
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
@@ -276,7 +276,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-1.6.x
+1.6.7
     - Popups and GUI were visually reworked
     - Added PushNotification for G&amp;D Event-Notifications
     - Overall speed improvements and UI fixes
