@@ -225,7 +225,7 @@ Changelog:
 
 
 
-# MobileGUI (iOS & Android) v1.6.8
+# MobileGUI (iOS & Android) v1.6.9
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
