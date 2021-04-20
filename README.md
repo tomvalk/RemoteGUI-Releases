@@ -24,6 +24,8 @@
 
 
 # RemoteGUI (Windows) v5.0.0
+Latest Update 20/04/2021 
+
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Laptop.png" height="25%" width="25%">
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-RemoteGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_RemoteGUI/)
@@ -226,6 +228,7 @@ Changelog:
 
 
 # MobileGUI (iOS & Android) v1.6.9
+Latest Update 15/04/2021
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
