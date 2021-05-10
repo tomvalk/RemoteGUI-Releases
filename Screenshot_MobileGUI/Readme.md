@@ -13,5 +13,3 @@ Version: 1.8.0 <br/>
 ![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshot_MobileGUI/MG11.png)	 <br/>
 ![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshot_MobileGUI/MG12.png)	 <br/>
 ![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshot_MobileGUI/MG13.png)	 <br/>
-![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshot_MobileGUI/MG14.png)	 <br/>
-
