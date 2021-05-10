@@ -1,5 +1,5 @@
 # MobileGUI - Screenshots 
-Version: 1.6.x <br/>	
+Version: 1.8.0 <br/>	
 ![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshot_MobileGUI/MG1.png)	 <br/>
 ![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshot_MobileGUI/MG2.png)	 <br/>
 ![alt text](https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Screenshot_MobileGUI/MG3.png)	 <br/>
