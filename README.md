@@ -87,6 +87,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 ```
 Changelog:
 5.0.0
+- New Design / Logo to match the MobileGUI
 - Added the setting to show the Push-Event-Notification in the Windows Notifcation Center
 - Added the option to show/hide Targets within the selected Workplace filter to the settings
 - Overall improvements and bug fixes 
@@ -233,6 +234,7 @@ Latest Update 10/05/2021
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
 [![Generic badge](https://img.shields.io/badge/Screenshots-MobileGUI-orange.svg)](https://github.com/tomvalk/RemoteGUI-Releases/blob/main/Screenshot_MobileGUI/)
+
 
 <details><summary>Features</summary>
 <p>
