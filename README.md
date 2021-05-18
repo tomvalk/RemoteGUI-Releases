@@ -228,8 +228,8 @@ Changelog:
 
 
 
-# MobileGUI (iOS & Android) v1.8.0
-Latest Update 10/05/2021
+# MobileGUI (iOS & Android) v1.8.3
+Latest Update 18/05/2021
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
@@ -281,6 +281,10 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
+1.8.3
+    - Framework update (background)
+     - Overall improvements and bug fixes   
+	
 1.8.0
     - New sidebar design including:
         - easy script access
