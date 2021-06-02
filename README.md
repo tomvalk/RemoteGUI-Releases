@@ -3,7 +3,7 @@
 
 
 <a href="https://testflight.apple.com/join/3QwH5VWa" target="_blank">
-  <img src="https://vehiclemind.zendesk.com/hc/article_attachments/360066515451/appletestflight-badge.png" width="200" height="80"/>
+  <img src="https://camo.githubusercontent.com/9c6efaea581ae0ea2ce748fd94160c128f8f96da0f7f9307b11fa88acd17175f/68747470733a2f2f636f64656269742e73747564696f2f6d617a652d6b696e67646f6d2f6d617a652d6b696e67646f6d2d70726573736b69742f67726170686963732f74657374666c696768745f62616467652e706e67" width="200" height="70"/>
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.mobilegui.android" target="_blank">
