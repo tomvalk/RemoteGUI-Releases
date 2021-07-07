@@ -19,7 +19,7 @@
   <img src="https://images.squarespace-cdn.com/content/v1/57eacb7e197aea92a6bb9682/1556121147198-U3JZP5DJZ7TQG9XFW4WV/ke17ZwdGBToddI8pDm48kCer5a32Hjd0zIRltAZ56MRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwltLZdKwhAec3545lrL2t9njB-xvxgVWJEReCmYKzSeBiwy-EsC0c1Ort17sWLgzo/bezlio-app-badges-windows-version.png?format=1500w" width="200" height="80"/>
 </a>
 
-
+--------------
 
 
 
@@ -226,7 +226,7 @@ Changelog:
 </p>
 </details>
 
-
+--------------
 
 # MobileGUI (iOS & Android) v2.0.1
 Latest Update 02/07/2021
@@ -335,6 +335,7 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </p>
 </details>
 
+--------------
 
 # About
 ## Blog
@@ -349,12 +350,9 @@ https://github.com/tomvalk/G-D-Scripts
 	
 ## Author
 Tom Valk   <br/>
-
-Int. Area Sales Manager  <br/>
 State-certified technical engineer and business economist <br/>
 Certified specialist trainer (BDVT)
 
 <a href="mailto:valk@live.de?"><img src="https://img.shields.io/badge/Send Mail-%23DD0031.svg?&style=for-the-badge&logo=mail&logoColor=white"/></a>
 
-## 
 <a href="https://www.buymeacoffee.com/tomtom1337" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
