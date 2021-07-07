@@ -336,7 +336,14 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 </details>
 
 --------------
-
+	
+# More examples of how to control G&D devices?
+https://github.com/tomvalk/G-D-Scripts
+	
+https://github.com/tomvalk/G-D-Cortana-Commands
+	
+--------------
+	
 # About
 ## Blog
 [G&D RemoteGUI – einfaches Umschalten innerhalb eines KVM-Systems via XML](https://blog.gdsys.de/blog/2020/08/05/gd-remotegui-einfaches-umschalten-innerhalb-eines-kvm-systems-via-xml/) <br/>
@@ -344,11 +351,6 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 ## Contributing
 For changes or issues, please open an [request](https://github.com/tomvalk/RemoteGUI-Releases/issues) first to discuss what you would like to change. <br/>
-	
-## More examples of how to control G&D devices?
-https://github.com/tomvalk/G-D-Scripts
-	
-https://github.com/tomvalk/CustomCortanaCommands
 	
 ## Author
 Tom Valk   <br/>
