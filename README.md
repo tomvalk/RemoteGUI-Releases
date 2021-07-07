@@ -343,7 +343,10 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 
 ## Contributing
 For changes or issues, please open an [request](https://github.com/tomvalk/RemoteGUI-Releases/issues) first to discuss what you would like to change. <br/>
-
+	
+## More examples of how to control G&D devices?
+https://github.com/tomvalk/G-D-Scripts
+	
 ## Author
 Tom Valk   <br/>
 
