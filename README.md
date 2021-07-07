@@ -347,6 +347,7 @@ For changes or issues, please open an [request](https://github.com/tomvalk/Remot
 	
 ## More examples of how to control G&D devices?
 https://github.com/tomvalk/G-D-Scripts
+https://github.com/tomvalk/CustomCortanaCommands
 	
 ## Author
 Tom Valk   <br/>
