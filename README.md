@@ -228,8 +228,8 @@ Changelog:
 
 --------------
 
-# MobileGUI (iOS & Android) v2.0.1
-Latest Update 02/07/2021
+# MobileGUI (iOS & Android) v2.0.2
+Latest Update 15/07/2021
 
 <img src="https://raw.githubusercontent.com/tomvalk/RemoteGUI-Releases/main/Mockup_Phone.png" height="25%" width="25%">
 
@@ -281,9 +281,11 @@ Webinterface -> 'Your Device' -> Configuration -> Network -> Remote-Control -> T
 <p>
 	
 ```
-2.0.1
+2.0.2
     - Public release
-    - Overall improvements and bug fixes  
+    - Overall improvements and bug fixes                
+    - Added new CP21 icons (2.0.1)
+    - Fixed scripting from sidebar (2.0.2)
 	
 1.9.0
      - Added Overview Tab
